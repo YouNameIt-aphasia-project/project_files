@@ -1,0 +1,17 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "google/flan-t5-large",
+  "inference_mode": true,
+  "num_attention_heads": 16,
+  "num_layers": 24,
+  "num_transformer_submodules": 2,
+  "num_virtual_tokens": 11,
+  "peft_type": "PROMPT_TUNING",
+  "prompt_tuning_init": "TEXT",
+  "prompt_tuning_init_text": "Given the following description, find the described target word. The target word is not contained in the description:",
+  "revision": null,
+  "task_type": "SEQ_2_SEQ_LM",
+  "token_dim": 1024,
+  "tokenizer_name_or_path": "google/flan-t5-large"
+}
+
