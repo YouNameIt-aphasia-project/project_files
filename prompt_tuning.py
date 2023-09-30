@@ -24,7 +24,7 @@ def make_dataset(path):
     This function creates transformers Datasets for a given csv file that consists of the columns 'descriptions' and 'targets' 
     '''
     df = pd.read_csv(path)
-    print(f"Number of descriptions: {len(df)}")
+    print(f"Number of descriptions: {df['description'].nunique()}")
     print(f"Number of target words: {df['target'].nunique()}")
 
     # Create Transformers dataset
@@ -284,7 +284,7 @@ def maskedLM_eval(data, model_name, file_spec, zero_shot=False, k=1, test_datalo
     
     else:
 
-        peft_model_id = "/local/js/BERT_Friends"
+        peft_model_id = "prompt_tuning_bins"
         config = PeftConfig.from_pretrained(peft_model_id)
         model = RobertaForMaskedLM.from_pretrained(config.base_model_name_or_path)
         model = PeftModel.from_pretrained(model, peft_model_id)
@@ -321,6 +321,6 @@ def maskedLM_eval(data, model_name, file_spec, zero_shot=False, k=1, test_datalo
             preds_test.append(topk_predicted_masked_tokens)
         
         df_eval_data = pd.DataFrame({'description': data['description'], 'target': data['target'], 'prediction': preds_test})
-        df_eval_data.to_csv(f"/local/js/BERT_Friends/eval_data_{file_spec}.csv")
+        df_eval_data.to_csv(file_spec)
         
         return data['target'], preds_test

@@ -18,7 +18,6 @@ def compute_sentence_embeddings(definitions_wordNet, out_file, device):
   #Store sentences & embeddings on disc
   with open(out_file, "wb") as fOut:
       pickle.dump({'sentences': definitions_wordNet, 'embeddings': embeddings}, fOut, protocol=pickle.HIGHEST_PROTOCOL)
-  #pd.to_pickle(embeddings, out_file)
 
 
 def get_sentence_embeddings(path, device):
