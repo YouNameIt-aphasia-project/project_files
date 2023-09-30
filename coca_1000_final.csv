@@ -1,0 +1,1001 @@
+,target,description,type
+0,principal,"The main or primary person, thing, or concept in a particular context, such as a school principal or a fundamental idea.",
+1,percentage," It's the way we show parts of something in relation to a whole, usually represented as out of 100.",
+2,survey,A method of collecting information or opinions from a group of people to gather insights and data on a particular topic or subject.,
+3,set,"A collection of distinct objects, considered as an entity, or a group of items that belong together based on a common characteristic or purpose.",
+4,day,"A period of approximately 24 hours, marked by the rotation of the Earth, during which various activities and events take place.",
+5,company,"An organization or business entity formed by a group of individuals to engage in commercial activities, offer products or services, and pursue financial goals.",
+6,syndicate,"A group of individuals or organizations that collaborate, often for financial or business purposes, to achieve common goals.",
+7,narrative,"It's like a story that tells about events and characters, helping us understand ideas or enjoy an adventure.",
+8,head,"The part of your body on top of your neck that holds your brain, eyes, nose, mouth, and ears, helping you see, hear, smell, taste, and think.",
+9,house,"A place where people live, usually a building with rooms for sleeping, eating, and other activities, providing shelter and a sense of home.",
+10,serviceman,"A person, often in the military or a similar profession, who provides specific services, carries out duties, or performs tasks that contribute to the well-being or security of a group, organization, or country.",
+11,charwoman,A term used in the past to refer to a woman hired to do cleaning and household chores in exchange for payment.,
+12,business,It's like a company or activity where people sell goods or services to make money.,
+13,plan,"It's a detailed idea of how to do something, like a roadmap that helps you know what steps to take in order to achieve a goal or complete a task.",
+14,character,"A person or figure within a story, movie, or play, often with distinct traits, personality, and a role to play in the plot.",
+15,student,"A person who's learning something, usually in a school or educational setting.",
+16,discussion,"It's when people talk and share their thoughts and ideas about a topic, usually to exchange information, solve problems, or make decisions.",
+17,right,"It means correct or proper, and it can also refer to a direction, like the opposite of left.",
+18,area,"It's the amount of space inside a flat surface, like the size of a room, a field, or any two-dimensional shape.",
+19,thing,"An everyday term for an object, item, or matter that exists in the physical or abstract sense, often used when referring to something without specifying its exact nature or name.",
+20,law,"Rules and regulations established by a society or governing body that people are expected to follow, aiming to maintain order, resolve disputes, and ensure fairness in various aspects of life.",
+21,lawsuit,It's when people have a legal disagreement and bring their problem to a court to get a judge's decision on how to solve it.,
+22,liveliness,"It's the quality of being full of energy, enthusiasm, and a sense of being vibrant and active.",
+23,system,It's like a set of connected parts or rules working together to achieve a specific purpose or function.,
+24,family,"A group of people connected by blood, marriage, or strong emotional bonds who care for and support each other, sharing experiences and relationships that create a sense of belonging and togetherness.",
+25,country,"It's a place with its own land, people, and government, usually with a distinct culture and borders that separate it from other places.",
+26,year,"It's the time it takes the Earth to go around the sun once, about 365 days, and it's how we measure the passage of time in larger chunks.",
+27,heading,"It's like a title or a short phrase at the top of something, giving you an idea of what's coming next or what a section is about.",
+28,book,"It's a bunch of pages glued together with words and pictures, telling a story or giving information about something.",
+29,fact,"Something that is known to be true because it can be proven or verified, without personal opinions or interpretations involved.",
+30,acquaintance,"Someone you know, but not as well as a close friend; a person you're familiar with, but haven't spent a lot of time with or formed a deep connection to.",
+31,animation,"It's when pictures, drawings, or images are shown in a rapid sequence to create the illusion of movement, bringing characters and scenes to life.",
+32,arrangement,It's how things are organized or put in a certain order to make them work together or look nice,
+33,batch,A group of items or tasks that are dealt with together because they share similarities or are processed as a unit.,
+34,case,"It's a situation or instance that you're looking at or dealing with, like a particular example or scenario.",
+35,child,"A young human who isn't an adult yet, usually referring to someone from birth to around 12 or so years old.",
+36,contribution,"It's what someone gives or adds to a situation, project, or group effort, making a meaningful impact or sharing their part.",
+37,direction,"The path or route indicating the way to proceed, often symbolized by guidance or orientation.",
+38,dwelling,"It's a place where someone lives, like a home or residence.",
+39,eye,It's a sensory organ that allows us to see the world around us.,
+40,floor,"It's the lower surface of a room that you walk on, and it can be made of various materials like wood or tile.",
+41,font,"A specific style and design of text characters, like the way letters and numbers appear in print or on a screen.",
+42,government,"It's the system or group that manages and controls a country, making and enforcing laws; the opposite of anarchy.",
+43,plot,"It's the sequence of events that make up a story, involving characters and their actions to create a narrative.",
+44,universe,A shining celestial body that provides light and heat to a solar system.,
+45,world,"The planet we inhabit, abundant with diverse landscapes, cultures, and ecosystems.",
+46,sheath,"A protective covering or casing for a blade or tool, often made of leather, plastic, or metal.",
+47,friend,"A person you have a close and caring relationship with, sharing experiences, emotions, and mutual support.",
+48,mind,"The center of consciousness, thoughts, and emotions within a person, responsible for cognition and decision-making.",
+49,manifest,"A written or printed document that lists items, passengers, or cargo, often accompanying shipments to provide a record of contents.",
+50,politics,"The activities, opinions, and processes associated with governing and making decisions in a society, often involving power dynamics, policies, and public affairs.",
+51,record,"A documented account of information, events, or achievements, serving as a historical reference or evidence of something that occurred.",
+52,report,A formal paper where you share information or findings about something in a structured way.,
+53,school,"A place where students go to learn, study, and gain knowledge, usually under the guidance of teachers and through various subjects and activities.",
+54,power,"The ability or capacity to exert control, influence, or force over people, things, or situations.",
+55,agglomeration,"It refers to a collection or gathering of things, often in a clustered or closely packed manner.",
+56,scholar,"It is someone who deeply studies and has expertise in a particular field, often conducting research and contributing to knowledge in that area.",
+57,state,A defined area of a country or region with its own government and laws.,
+58,idea,"A thought or concept that forms in your mind and can represent a plan, opinion, or creative concept.",
+59,class,"It refers to a group of students who come together to learn about a particular subject or topic in an educational setting, often led by a teacher.",
+60,function,"It refers to the purpose or role that something serves, explaining how it operates or contributes to a system.",
+61,offspring,"It refers to the children or young of a particular organism or parent, like the next generation or descendants.",
+62,malpractice,"It refers to the improper, negligent, or harmful conduct by a professional, often a doctor or lawyer, which goes against the accepted standards and can cause harm to others.",
+63,nox,"it refers to the Latin word for ""night,"" often used to describe the dark period when the sun has set and it's dark outside.",
+64,ability,"It is the capacity or skill to do something, like a talent or proficiency in a particular task.",
+65,employment,"It refers to the condition of being hired or engaged in a job, usually by a company or organization, in exchange for wages or salary.",
+66,program,"It is a set of instructions that a computer follows to perform tasks or operations, like running software or completing specific actions.",
+67,fortune,"It refers to a significant amount of wealth or a prosperous state of life, often involving financial success and good luck.",
+68,space,"It is the vast area beyond Earth's atmosphere that contains stars, planets, galaxies, and other celestial bodies.",
+69,capitulum,"It refers to a small, distinct part or chapter within a larger work, often used in the context of books, documents, or biological structures.",
+70,compass,"It is a small, handy tool that helps you find directions by pointing to the Earth's magnetic north, commonly used for navigation and orientation.",
+71,exhibition,"It is an event or display where various items, such as artworks, artifacts, or products, are presented to the public for viewing and appreciation.",
+72,estimate,"It is a calculated approximation of a quantity, value, or cost based on available information or analysis.",
+73,room,"It is a defined space within a building where people can stay, work, or do various activities.",
+74,topic,"It is a subject or theme that you focus on or talk about, like a main idea for a conversation, an essay, or a discussion.",
+75,news,"It refers to current information, updates, or events that are happening locally, nationally, or globally, often reported by journalists through various media outlets.",
+76,subject,"It means the main topic or theme of a conversation, discussion, or piece of writing.",
+77,history,"It means the record of past events, actions, and developments, showing how societies, cultures, and civilizations have evolved over time.",
+78,shell,"It is a hard outer covering or layer that provides protection, like the outer part of an egg or a turtle's protective covering.",
+79,caper,"It is a playful and lively activity or adventure, usually done with a sense of mischief or excitement.",
+80,plaza,"It is an open public space, often surrounded by buildings, where people gather for various activities, like socializing, events, or simply relaxing.",
+81,populace,It means the entire population or group of people living in a specific area or region.,
+82,valet,"It is a person who provides personal assistance and services, often in parking cars, handling luggage, or attending to a guest's needs.",
+83,war,"It is a state of armed conflict between different groups or nations, usually involving violence and military actions.",
+84,bible,"It is a religious text that's considered sacred by many, containing scriptures and teachings central to Christianity, with stories, wisdom, and guidance for believers.",
+85,broadcast,"It is a message or program that's sent out over radio, television, or the internet to reach a wide audience.",
+86,exit,"It is a designated point or passage through which you can leave a place, like a door, gate, or pathway.",
+87,enterprise,"It is a large and organized business or project, often involving significant resources, effort, and coordination to achieve specific goals or objectives.",
+88,supporter,"It means someone who backs a person, cause, or idea, often providing encouragement, help, or resources.",
+89,multitude,"It means a large number or a vast crowd of people, things, or elements gathered together in one place or context.",
+90,emergence,"It is the process of something coming into existence, often in a gradual or noticeable manner, from simpler components or elements.",
+91,basement,"It is a lower level of a building, often partially or entirely below ground level, used for various purposes like storage, utilities, or extra living space.",
+92,ally,"It is someone who supports and stands by you, often sharing common goals or values, and working together for a common cause.",
+93,nation,"It is a distinct group of people who share common characteristics, often including language, culture, history, and governance, within a defined geographic area.",
+94,distributor,"It is a person or entity that handles the supply and delivery of products, often to different locations or customers.",
+95,mitigation,"It is the act of lessening or reducing the severity, impact, or harmful effects of something, like a problem, risk, or disaster.",
+96,appointment,"It is a scheduled arrangement or meeting at a particular time and place, often involving professionals, such as doctors or business people.",
+97,nurture,"It is the act of providing care, support, and guidance to help someone or something develop and grow in a positive way.",
+98,articulation,"It is the way in which someone speaks or pronounces words, showing clarity and distinctness in their speech.",
+99,time,"The continuous progression of moments and events in the past, present, and future.",
+100,people,"Individuals belonging to the human species who possess unique characteristics, thoughts, and emotions.",
+101,way,"A path, method, or route to reach a destination or achieve a goal.",
+102,man,It is the opposite of woman.,a
+103,life,It is the opposite of death.,a
+104,woman,It is the opposite of man.,a
+105,president,"It is the synonym of ""head of the state"".",s
+106,part,A component or piece of a whole.,
+107,place,A location or area where things can be located or events can occur.,
+108,problem,It is the opposite of solution.,a
+109,week,A seven-day period of time.,
+110,point,"A specific location or a sharp, small tip or end.",
+111,hand,It is related to arm.,r
+112,group,It is a synonym of team.,s
+113,guy,It is a synonym of dude or man.,s
+114,question,It is the antonym of answer.,a
+115,work,It is a synonym of job.,s
+116,night,It is the opposite of day.,a
+117,game,"An activity or competition with structured rules and objectives, often for entertainment or competition.",
+118,number,A numerical value used to count or quantify objects or concepts.,
+119,money,It is a synonym of cash.,s
+120,lot,An area of land or a large quantity or number of something.,
+121,city,It is similar to town.,s
+122,story,A narrative that tells about a series of events or experiences.,
+123,job,Employment or work that one does to earn money or fulfill responsibilities.,
+124,word,A piece of language used to express thoughts or ideas.,
+125,month,It is related to year.,r
+126,home,It is a synonym of house.,s
+127,kind,It is a synonym of type.,s
+128,study,It is similar to research.,s
+129,issue,It is related to problems or troubles.,r
+130,name,A word you use to call someone or something.,
+131,percent,A way to express a portion or part of a whole in relation to one hundred.,
+132,kid,It is the opposite of adult.,a
+133,mother,It is the antonym of father.,a
+134,team,It is similar to group.,s
+135,side,One of the choices or options in a situation.,
+136,water,Wet stuff that keeps us from being thirsty.,
+137,service,"Help or work provided to someone, often for a fee.",
+138,person,It is similar to individual.,s
+139,end,It is the opposite of the beginning.,a
+140,hour,It is related to time.,r
+141,line,A continuous mark or path with no interruptions.,
+142,girl,It is the antonym of boy.,a
+143,father,It is the opposite of mother.,a
+144,information,Facts or details that provide knowledge about something.,
+145,car,It is a commonly used vehicle with four wheels.,
+146,minute,It is related to time and hours.,r
+147,party,A gathering or event for socializing and having fun.,
+148,back,It is the opposite of front.,a
+149,health,"The state of your body and mind, whether you're feeling good or not.",
+150,reason,It is similar to cause or explanation.,s
+151,member,A person belonging to a group or organization.,
+152,community,A group of people who live in the same area or share common interests and goals.,
+153,body,It is the opposite of soul.,a
+154,level,A measurement of how flat or even something is.,
+155,boy,It is the antonym of girl.,a
+156,university,It is related to studying and students.,r
+157,change,It is the antonym of stability.,a
+158,center,It is similar to the middle.,s
+159,face,"The front part of the head with features like eyes, nose, and mouth.",
+160,food,It is something that we eat.,
+161,result,The opposite of process.,a
+162,morning,The antonym of the evening.,a
+163,parent,An adult who takes care of and raises a child.,
+164,office,"A place where people work, usually in administrative or professional roles.",
+165,research,It is similar to study.,s
+166,door,Something that we open to enter the building or to leave it.,
+167,court,"A place where legal matters are decided, often with a judge and lawyers involved.",
+168,moment,A brief and specific period of time.,
+169,street,A place where cars drive and people walk.,
+170,policy,A set of rules or guidelines established by an organization or government to guide decisions and actions.,
+171,table,It is related to chairs.,r
+172,care,"The concern, attention, or effort given to something or someone.",
+173,process,A series of actions or steps taken to achieve a particular result or goal.,
+174,teacher,Someone who helps you learn new things in school.,
+175,data,Information or facts that can be collected and analyzed.,
+176,death,It is related to dying.,r
+177,experience,"The knowledge and understanding gained through personal encounters, situations, or events.",
+178,education,"The process of learning and gaining knowledge, often in formal settings like schools or colleges.",
+179,age,The number of years a person or thing has existed since birth or creation.,
+180,sense,"The ability to perceive and understand information from one's surroundings using the five main faculties: sight, hearing, taste, touch, and smell.",
+181,show,It is similar to performance or presentation.,s
+182,college,It is similar to a university.,s
+183,music,Sounds and rhythms that make you feel emotions or want to dance.,
+184,police,"Individuals tasked with maintaining law and order, often distinguished by uniforms and authority to enforce rules and protect citizens.",
+185,use,The act or instance of employing something for a specific purpose.,
+186,effect,The result or impact of an action or event.,
+187,season,A specific time of the year with its own weather and activities.,
+188,tax,Money collected by the government from individuals and businesses to fund public services and programs.,
+189,heart,The organ in your chest that pumps blood through your body.,
+190,son,It is the antonym of daughter.,a
+191,art,"Creating something beautiful or meaningful through drawing, painting, music, or other forms of expression.",
+192,market,A place or situation where goods and services are bought and sold.,
+193,air,The invisible mixture of gases that surrounds the Earth and is essential for breathing and sustaining life.,
+194,force,It is a synonym of power or might.,s
+195,foot,It is a part of your leg.,
+196,baby,A very young human or animal in the early stages of life.,
+197,love,It is the opposite of hate.,a
+198,republican,It is the antonym of democrat.,a
+199,interest,It is the opposite of boredom.,a
+200,security,It is similar to safety or protection.,s
+201,control,The ability to manage or influence a situation or object as desired.,
+202,rate,"A measure of the speed, quantity, quality, or value of something.",
+203,action,Doing something or taking a step to achieve a goal or result.,
+204,wife,It is the opposite of husband.,a
+205,decision,The act of making a choice or reaching a conclusion after considering various options or information.,
+206,value,"The worth or importance of something, like how much it means to you or how useful it is.",
+207,phone,A small electronic device that lets you talk to people far away or use apps.,
+208,thanks,An expression of gratitude or appreciation for something received or done for you.,
+209,event,"A happening or occurrence, often with a specific date or time, that can be a gathering, performance, or significant incident.",
+210,site,"It is similar to location, spot, or venue.",s
+211,church,A building or place of worship associated with a religious faith.,
+212,model,Something used to show or explain an idea or show off clothes or gadgets.,
+213,relationship,"A connection or bond between individuals, often characterized by emotional, social, or romantic interactions.",
+214,movie,It is something we can watch at the cinema.,
+215,field,"A big open space where people can grow things, play games, or study things like plants or animals.",
+216,player,It is someone who plays a game.,
+217,couple,Two people who are together in a relationship.,
+218,difference,It is the opposite of similarity.,a
+219,light,It is the antonym of dark.,a
+220,development,"It is a synonym of progress, growth, or advancement.",s
+221,role,"A part or position someone plays or occupies in a particular situation or system, often with specific responsibilities or expectations.",
+222,view,"It is a synonym for perspective, outlook, scene, or landscape.",s
+223,price,The amount of money required or exchanged for a product or service.,
+224,effort,"The energy, work, or attempt put into achieving a goal or completing a task.",
+225,voice,The sound that comes out when you talk or sing.,
+226,department,A part of a company or school that does its own job.,
+227,leader,"An individual who guides, influences, or directs a group or organization, often making important decisions and setting a course of action.",
+228,photo,A captured image or picture taken with a camera or other photographic device.,
+229,project,"A temporary task with a clear goal, like a school assignment or a job at work.",
+230,position,"It is a synonym for location, posture, or stance.",s
+231,million,A very large number with six zeroes.,
+232,film,It is a synonym for a movie.,s
+233,need,It is similar to a requirement or a desire.,s
+234,type,"It is similar to a kind, category, or a sort.",s
+235,town,A populated area smaller than a city.,
+236,article,"A written piece of content often found in newspapers, magazines, or online, conveying information or opinions on a particular topic.",
+237,road,"It is similar to street, highway, drive, or avenue.",s
+238,form,It is similar to shape or structure.,s
+239,chance,It is a synonym of opportunity.,s
+240,drug,"it is a synonym for a medication, remedy, or substance.",s
+241,situation,"It is a synonym for the circumstance, scenario, or position.",s
+242,practice,"It is similar to training, repetition, or routine.",s
+243,science,Learning about the way things work in the world around us through experiments and observations.,
+244,brother,It is the opposite of sister.,a
+245,matter,"Substances that occupy space and have mass, which can be in the form of solids, liquids, or gases.",
+246,image,It is a synonym of the picture or photograph.,s
+247,star,A giant ball of hot gas in space that shines and gives off heat and light.,
+248,cost,"It is similar to price, expense, or fee.",s
+249,post,A message or item sent or shared through mail or digital platforms to convey information or communicate with others.,
+250,society,"A group of people living together in a community or sharing common customs, laws, and organizations.",
+251,picture,It is similar to an image or a photograph.,s
+252,piece,"It is a synonym of a fragment, part, or portion.",s
+253,paper,It is something you can write on.,
+254,energy,"It is similar to power, force, or enthusiasm.",s
+255,building,"A structure constructed for various purposes, such as shelter, work, or accommodation, typically consisting of walls, a roof, and rooms or spaces inside.",
+256,doctor,"A trained medical professional who diagnoses, treats, and cares for patients' health and medical conditions.",
+257,activity,"It is a synonym for action, operation, or exercise.",s
+258,american,"It is related to the United States or its people, culture, or institutions.",r
+259,media,"Various means of communication and information dissemination, including television, radio, newspapers, and the internet.",
+260,evidence,"Facts, information, or objects that support or prove something, often used in investigations or arguments to establish truth or validity.",
+261,product,"It is a synonym for item, commodity, output, or result.",s
+262,arm,It is the opposite of leg.,a
+263,technology,Gadgets and machines that make life easier or do cool stuff.,
+264,comment,"A remark, opinion, or expression of thoughts made in response to a topic, article, or discussion.",
+265,look,"It is a synonym for gaze, glance, view, or glimpse.",s
+266,term,"A word or phrase used to describe or represent a concept, idea, or period of time.",
+267,color,The visual quality of the appearance of an object.,
+268,choice," A decision-making concept referring to selecting between multiple options based on personal preferences, ethics, or constraints.",
+269,source,It is the origin of something.,
+270,mom,It is the opposite of dad.,a
+271,director,A person who is in charge of a particular task or a group of people.,
+272,rule,A set of principles or guidelines that govern or regulate behavior or actions.,
+273,campaign,"A series of planned activities aimed at achieving a particular goal or objective, typically involves persuasion or promotion.",
+274,ground,"It is a level surface or base that serves as a foundation for buildings, objects, or structures.",
+275,election,It is the process of choosing officials through a voting process.,
+276,page,"It is a rectangular surface that is used for writing, printing, or displaying information, either manually or electronically.",
+277,test,A written or oral examination used to evaluate a person's knowledge or skills in a particular area.,
+278,patient,It is the opposite of doctor.,a
+279,video,It is a sequence of images recorded on a camera.,
+280,support,A substance or structure that holds up or provides stability or assistance to something or someone else.,
+281,rest,The opposite of work.,a
+282,step,It is a movement we make with our legs when we walk.,
+283,opportunity,It is similar to chance.,s
+284,official,"A person who has the power to enforce laws, regulations, and other legal measures within its jurisdiction.",
+285,oil,It is related to gas.,r
+286,call,When you talk to someone on the phone or when you visit someone quickly.,
+287,organization,"It's a synonym for company, institution, or system.",s
+288,county,A specific geographic area or administrative division within a larger region.,
+289,future,It is the opposite of the past.,a
+290,dad,It is the way you can call your father informally.,
+291,industry,A sector or system of economic activity that is concerned with the production and distribution of goods and services for profit.,
+292,second,It is a measure of time smaller than a minute.,
+293,list,A series of items that are arranged in a particular order.,
+294,stuff,"It is an informal way to refer to substance, equipment, goods, and other things.",
+295,figure,It's a representation of an object or person using geometric shapes and symbols.,
+296,attention,"A synonym for focus, concentration, or consideration.",s
+297,risk,"It is a synonym for danger, hazard, or possibility.",s
+298,fire,A synonym for flame.,s
+299,dog,It is the opposite of cat.,a
+300,hair,"A soft, fibrous growth typically found on the head, face, arms, and legs of humans.",
+301,condition,A state or circumstances in which a person or thing finds itself.,
+302,wall,A vertical surface that separates rooms in a building.,
+303,daughter,It is the antonym for son.,a
+304,deal,It is a synonym for arrangement or agreement.,s
+305,author,"It is similar to creator, or writer.",s
+306,truth,It is the antonym of lie.,a
+307,husband,It is the opposite for wife.,a
+308,period,A length of time with a specific start and end.,
+309,series,"A sequence of related events, objects, or items that follow one another in a particular order or pattern.",
+310,order,A specific arrangement or sequence of items or actions.,
+311,officer,"A person in a position of authority, often responsible for enforcing laws, maintaining order, or carrying out specific duties within an organization or government agency.",
+312,land,"A synonym for country, territory, or field.",s
+313,computer,"A machine that does math, stores information, and lets you do stuff on the internet.",
+314,thought,It is similar to idea.,s
+315,economy,How a place makes money and buys and sells stuff.,
+316,goal,It is a synonym of aim or purpose.,s
+317,bank,It is an institution where people store or borrow money.,
+318,behavior,The way people act or conduct themselves.,
+319,act,It is a synonym of deed.,s
+320,north,It is the opposite of south.,a
+321,blood,The red fluid that circulates in the veins and arteries of humans and other animals.,
+322,culture,"The shared beliefs, customs, practices, and values of a group of people.",
+323,top,It is the opposite of bottom.,
+324,language,The way people talk and write to understand each other.,
+325,window,A glass hole in the wall that lets in light and lets you see outside.,
+326,response,It is a synonym for answer or reaction.,a
+327,population,"The total number of people living in a specific area, region, or country at a given time.",
+328,tree,A big plant with a long trunk and green leafs on top.,
+329,park,"A place with grass, trees, and benches where people go to relax and play.",
+330,worker,A person who performs tasks or labor.,
+331,earth,It is a synonym for the world.,s
+332,cause,It is a synonym for reason or motive.,s
+333,race,"A competition involving speed, endurance, or skill, typically between individuals or teams.",
+334,letter,A written or printed message used for communication.,
+335,gun,A device that shoots bullets.,
+336,course,A series of classes or lessons that teach you something.,
+337,hell,The opposite of heaven.,a
+338,answer,It is the opposite of question.,a
+339,nature,"The world around us, including things like animals, plants, mountains, rivers, and the sky.",
+340,administration,"The people who make rules and decisions for a place, like a school or a country.",
+341,message,Something you write or say to give someone information or talk to them.,
+342,song,It is related to music.,r
+343,congress,A group of people who make important decisions and laws for a country.,
+344,attack,It is the opposite of defense or protection.,a
+345,amount,A synonym for number or bulk.,s
+346,analysis,"It is similar to investigation, study, or scrutiny.",s
+347,store,It is a synonym for shop.,s
+348,defense,The opposite of attack.,a
+349,bill,It is a synonym for check or receipt.,s
+350,cell,A tiny part of living things that does different jobs in the body.,
+351,performance,It is similar to a show.,s
+352,hospital,A place where people are treated for illness.,
+353,bed,A place to sleep.,
+354,board,"A flat surface that you can use for writing, drawing, or putting things on.",
+355,century,A period of hundred years.,
+356,summer,It is a season of the year that comes after spring and before autumn.,
+357,material,It is a synonym for substance.,s
+358,individual,It is similar to the word person.,s
+359,example,A thing you show to help people understand or know what you mean.,
+360,animal,"A living creature that is not a plant, often moving around, eating, and breathing.",
+361,factor,Something that can influence or affect a situation or outcome.,
+362,sir,An opposite for madam.,a
+363,agency,It is a synonym for bureau or company.,s
+364,help,"It is a synonym for aid, support, or cooperation.",s
+365,mile,A measurement of distance that is longer than a kilometer and is used to measure how far something is.,
+366,statement,Something someone says or writes to tell others about something or express their thoughts.,
+367,democrat,A person who belongs to a political group that often supports progressive policies.,
+368,career,A job that you do for a long time and try to get better at.,
+369,dollar,It is a currency used in the United States.,
+370,sex,"The biological and physical differences between males and females, often related to reproduction.",
+371,south,It is the opposite of north.,a
+372,decade,It is a period of time that encompasses 10 years.,
+373,bit,A tiny piece or small portion of something.,
+374,sister,It is the opposite of brother.,a
+375,quality,How good or bad something is.,
+376,press,"A machine or device that applies pressure to flatten, shape, or print on objects.",
+377,sound,It is similar to noise.,s
+378,plant,A living organism that grows in the ground.,
+379,movement,The act of going from one place to another or doing something with your body.,
+380,scene,"It is a synonym to place, sight, or arena.",s
+381,section,It is similar to compartment or part.,s
+382,treatment,The care or medical help someone gets when they're sick or hurt to make them feel better.,
+383,benefit,"It is a synonym for profit, gain, or advantage.",s
+384,west,It is the opposite of east.,a
+385,candidate,Someone who wants to get a job or be chosen for something like an election.,
+386,approach,The way you get close to something or someone.,
+387,resource,"It is similar to capital, wealth, or means.",s
+388,sort,It is similar to type or category.,s
+389,size,How big or small something is.,
+390,knowledge,It is similar to expertise or intelligence.,s
+391,sport,A physical activity or game that people play to exercise.,
+392,tv,"A box with a screen that shows pictures and plays sound, like cartoons and movies.",
+393,loss,It is opposite of gain.,a
+394,note,A piece of paper with words or pictures on it.,
+395,meeting,It is similar to encounter or rendezvous.,s
+396,skill,It is similar to competence or ability.,s
+397,card,"A small, flat piece of material used for various purposes like playing games, making payments, or storing information.",
+398,feeling,It is a synonym of emotion or sensation.,s
+399,degree,A level or measurement that tells how hot or cold something is or how much you know about something.,
+400,crime,An action that is against the law and can lead to punishment.,
+401,sign,"A picture or words that tell you something, like where to go or what to do.",
+402,vote,A choice made by people to pick their favorite person or thing in a contest or decision.,
+403,king,It is the antonym of queen.,a
+404,box,"A square or rectangular container with sides and a lid, used for storing or transporting items.",
+405,disease,It is similar to illness or disorder.,s
+406,lady,A polite way to refer to a grown-up girl or woman.,
+407,design,A plan or arrangement of how something looks or works.,
+408,concern,It is a synonym of worry.,s
+409,ball,"A small, round object that people use to play games like soccer or basketball.",
+410,east,It is the opposite of west.,a
+411,network,"A web of connected things, such as computers or phones, that can talk to each other and share information.",
+412,success,It is the opposite of failure.,a
+413,district,"It is similar to area, neighborhood, or region.",s
+414,cup,"A container for holding liquids, usually with a handle and a round shape.",
+415,growth,Getting bigger or getting more of something over time.,
+416,standard,A regular way of doing something that everyone agrees on.,
+417,fan,It is a synonym for air conditioner or ventilator.,s
+418,theory,It is the opposite of practice.,a
+419,staff,It is a synonym for crew or personell.,s
+420,september,It is the first month in autumn.,
+421,strategy,It is similar to plan or program.,s
+422,property,"Stuff that belongs to someone, like a house, car, or things they own.",
+423,authority,The power or right to make decisions and give orders.,
+424,method,It is similar to approach or technique.,s
+425,region,"It is similar to area, district, territory, or land.",s
+426,impact,"It is a synonym of influence, shock, or brunt.",s
+427,committee,"It is similar to board, panel, or jury.",s
+428,dream,It is something you see in your sleep.,
+429,training,It is similar to workour or exercising.,s
+430,shit,It is similar to crap or poop.,s
+431,option,It is similar to choice or opportunity.,s
+432,opinion,"It is a synonym of viewpoint, assumption, or impression.",s
+433,interview,A conversation where someone asks questions to learn about you or your ideas.,
+434,play,An activity or performance in the theater.,
+435,union,When workers come together to ask for better pay and working conditions from their boss.,
+436,professor,It is similar to teacher or lecturer.,s
+437,pressure,"The force pushing on something, like when you squeeze something tightly.",
+438,purpose,It is a synonym for aim or goal.,s
+439,stage,A raised platform where performers or speakers stand in front of an audience.,
+440,sun,It is the opposite of the Moon.,a
+441,pain,It is the opposite of pleasure or comfort.,a
+442,artist,"Someone who makes beautiful or interesting things like paintings, drawings, or sculptures.",
+443,employee,It is the opposite of employer.,a
+444,account,A record that keeps track of your money or things you do.,
+445,fund,"Money you save or collect to use for a specific purpose, like buying something or helping others.",
+446,environment,It is similar to habitat or environment.,s
+447,version,It is a synonym for form or variant.,s
+448,shot,A single act of firing a gun or a small amount of liquid medicine given with a needle.,
+449,reality,"The way things actually are, not just how we imagine them to be.",
+450,club,A group of people who like the same things and do activities together.,
+451,justice,The fairness of the law.,
+452,river,"A long, flowing stream of water that usually goes through land.",
+453,brain,"The part inside your head that helps you think, learn, and remember things.",
+454,memory,A mental image of something that has happened in the past.,
+455,rock,A hard and solid piece of the Earth's surface.,
+456,talk,"A synonym for discussion, chat, or conversation.",s
+457,camera,A device that takes pictures or videos.,
+458,detail,The small and specific parts or information that make up a bigger thing.,
+459,challenge,A difficult problem or situation that requires a solution.,
+460,argument,It is similar to a discussion or debate.,s
+461,weapon,A tool for killing or destroying something.,
+462,station,A place where trains or buses stop.,
+463,island,A small land mass surrounded by water.,
+464,trouble,A synonym of issue or problem.,s
+465,conversation,"It is a synonym for discussion, chat, or talk.",s
+466,date,"When two people go somewhere together, like a restaurant or a movie, to get to know each other better.",
+467,public,"A group of people who are not related but live in the same place, like a town or city.",
+468,army, A military force.,
+469,charge,The amount of money you pay for something or the action of rushing towards someone or something.,
+470,seat,A place to sit.,
+471,writer,A synonym for author.,s
+472,credit,A loan given to a person or organization in return for a promise to repay it.,
+473,marriage,An antonym for divorce.,a
+474,operation,It is a medical procedure.,
+475,agent,"Someone who does things for others, like a detective or a person who helps you buy a house.",
+476,access,It is similar to entry or admission.,s
+477,bar,A place where people go to get drinks and socialize.,
+478,debate,It is a synonym for dispute or argument.,s
+479,leg,An opposite of arm.,s
+480,glass,A transparent material that can be used to make windows.,
+481,adult,A person who is older than a child.,
+482,trade,It is a synonym for commerce.,s
+483,review,A critical examination of a book or film.,
+484,association,The process of forming a group of people with similar interests.,
+485,measure,"A way of determining the size, quantity, or extent of something.",
+486,stock,A share in the ownership of a company.,
+487,gas,A substance related to oil.,r
+488,lawyer,A person who helps others with legal matters and represents them in court if needed.,
+489,production,The process of making things or providing services to meet the needs of society.,
+490,management,The process of directing and controlling the activities of an organization.,
+491,victim,"Someone who has been harmed or negatively affected by a situation, event, or another person's actions.",
+492,cancer,A disease that can be fatal if not treated.,
+493,speech,A series of words that are spoken.,
+494,trial,When people go to court to figure out if someone did something wrong or not.,
+495,item,It is a synonym for piece or article.,s
+496,weight,How heavy something is.,
+497,citizen,A person who belongs to a particular country and has rights and responsibilities there.,
+498,trip,A synonym for journey.,s
+499,executive,A top boss in a company or organization who makes important decisions and manages things.,
+500,customer,A synonym for client.,s
+501,manager,It is a synonym for director or administrator.,s
+502,conference,A meeting where people come together to talk and share ideas or information.,
+503,base,The bottom or foundation of something.,
+504,sunday,It is the last day of the week.,
+505,past,It is the antonym for future.,
+506,majority,It is the antonym of minority.,a
+507,peace,It is the antonym of war.,a
+508,dinner,It is the opposite of breakfast.,a
+509,partner,"A synonym for ally, companion, or spouse.",s
+510,user,"A person who interacts with and uses a device, service, or system, like a computer or a website.",
+511,bag,A container made of fabric or material used for carrying things.,
+512,owner,Someone who has something and it belongs to them.,
+513,voter,A person who participates in voting or election by choosing their favorite candidates.,
+514,tool,It is a synonym for instrument or device.,s
+515,june,It is the first month of summer.,
+516,may,It is the last month of spring.,
+517,mountain,A really tall and steep hill.,
+518,range,"A place where you can shoot, play, or find things that are not too close but also not too far away.",
+519,coach,A synonym for trainer.,s
+520,fear,"It is an emotion similar to panic, anxiety, and scare.",s
+521,friday,It is the fifth day of the week.,
+522,attorney,A person who helps you with legal problems and goes to court for you if needed.,
+523,expert,Someone who knows a lot about something.,
+524,structure,It is similar to architecture or organization.,s
+525,budget,A plan for how much money you can spend and what you can spend it on.,
+526,insurance,Paying money to a company so they can help you if something bad happens to your stuff or you.,
+527,text,"A written message, often sent electronically through a device like a phone or computer.",
+528,freedom,It is the opposite of dependence or restriction.,a
+529,reader,The opposite of writer.,a
+530,style,The way something is designed or done that makes it unique or attractive.,
+531,march,It is the first month of spring.,
+532,machine,A mechanical device designed to perform specific tasks or work.,
+533,november,It is the last month of autumn.,
+534,generation,"A group of people who were born and live around the same time, like parents, children, and grandchildren in a family.",
+535,income,It is a synonym for revenue or salary.,s
+536,sea,It is similar to lake or ocean.,s
+537,mouth,"The part of your face that you use to eat, speak, and breathe, consisting of lips, teeth, and a tongue inside.",
+538,web,"A place on the internet where you can find information, connect with people, or do things like shopping or playing games.",
+539,threat,It is a synonym of danger or intimidation.,s
+540,solution,It is the opposite of problem.,a
+541,scientist,It is a synonym for researcher.,s
+542,investigation,"A synonym for inspection, research, or examination.",s
+543,senator,A person who works in the government.,
+544,unit,"A single entity or object that is separate and distinct, often part of a larger whole or used as a standard measure.",
+545,photograph,It is similar to image or picture.,s
+546,july,It is the second month of summer.,
+547,television,"A device that shows moving pictures and sound, often used for entertainment and information.",
+548,radio,A device that plays music and talks from far away using special waves you can't see.,
+549,senate,A group of people in the government who make important decisions and pass laws.,
+550,violence,Harming or hurting someone or something using physical force or strong emotions like anger.,
+551,feature,"It is a synonym for quality, aspect, or characteristic.",s
+552,audience,"The group of people who are watching, listening to, or paying attention to something like a performance, presentation, or event.",
+553,evening,It is the opposite of morning.,a
+554,hall,"A space within a building, typically used for passage or as a room for various purposes like gatherings, events, or meetings.",
+555,task,A synonym for assignment or duty.,s
+556,score,A synonym for grade or mark.,s
+557,skin,The outer covering of your body that helps protect you and can have different colors and textures.,
+558,spring,It is a season of the year that comes after winter and before summer.,
+559,safety,It is a synonym for security.,s
+560,weekend,The opposite of weekday.,a
+561,while,"A period of time, often a short one, when something happens or when you do something.",
+562,title,A synonym for name or caption.,s
+563,heat,The opposite of cold.,a
+564,hope,A positive feeling that things will get better.,
+565,yard,An outdoor area around a house with grass.,
+566,finger,"One of the five long, slender parts at the end of your hand.",
+567,mission,"It a synonym for aim, assignment, or calling.",s
+568,participant,"Someone who takes part in an activity, event, or situation.",
+569,hotel,It is similar to hostel or motel.,s
+570,judge,A person in a courtroom who listens to arguments and decides what happens to people who break the law.,
+571,pattern,"A design or arrangement of shapes, colors, or objects that repeats in a predictable way.",
+572,break,A synonym for pause or interruption.,s
+573,institution,A synonym for establishment.,s
+574,faith,A synonym for belief.,s
+575,folk,It is similar to community or nation.,s
+576,surface,"The top or outside part of something, like the outside of a table or the ground you walk on.",
+577,fall,A synonym for autumn.,s
+578,client,It is someone who uses the services.,
+579,edge,"The very outer part of something, like the border or limit.",
+580,council,A group of people who make decisions and plans for a town or community.,
+581,device,A synonym for machine or gadget.,s
+582,firm,It is a synonym for company or enterprise.,s
+583,responsibility,It is similar to duty or obligation.,s
+584,chair,It is the opposite for table.,a
+585,internet,A huge digital network.,
+586,october,It is the second month of autumn.,
+587,investment,When you use your money to buy something with the hope that it will make you more money in the future.,
+588,ship,"A large watercraft used for transportation, commerce, or exploration.",
+589,content,"Information contained or provided by something, typically through digital platforms.",
+590,consumer,Someone who buys and uses goods and services.,
+591,element,A fundamental particle that makes up an atom.,
+592,spirit,It is a synonym for character or humor.,s
+593,track," A narrow, elevated road.",
+594,run,It is the opposite of walk.,a
+595,wind,A movement of air that can be felt and heard.,
+596,lack,It is a synonym for absence or shortage.,s
+597,journal,An organized record of important information.,
+598,ice,Water in a solidified form.,
+599,collection,A group or assemblage of various items.,
+600,soldier,A synonym for fighter or trooper.,s
+601,governor,A synonym for administrator or ruler.,s
+602,fish,Creatures with fins and gills that swim in water.,
+603,shoulder,A body part that connects your arm and your head.,
+604,saturday,It is a day of the week before Sunday.,
+605,editor,A person responsible for reviewing and revising written materials.,
+606,claim,A legal assertion made to obtain a right or property under the law.,
+607,agreement,A contract or arrangement that is reached between two or more parties.,
+608,researcher,It is similar to a scientist.,s
+609,concept,It is similar to notion or idea.,s
+610,band,A group of musicians who perform together.,
+611,restaurant,A place where people can gather to enjoy food and drinks.,
+612,league,A group of sports teams that play against each other in a series of games.,
+613,capital,Center of political and economic activity in a city or country.,
+614,april,It is the second month of spring.,
+615,magazine,It is a synonym for journal.,s
+616,status,An individual or group's position in society or the hierarchy of a group.,
+617,hill,It is similar to a mountain.,s
+618,kitchen,A room or area within a building used for food preparation and cooking.,
+619,screen,It is a synonym for a monitor.,s
+620,mistake,It is similar to error.,s
+621,battle,It is a synonym for combat or fight.,s
+622,spot,A small or limited area of land or water where something is located or found.,
+623,corner,The point where two lines or surfaces meet.,
+624,driver,It is the opposite of passenger.,a
+625,beginning,It is the opposite of the end.,a
+626,religion,"Beliefs, rituals, and practices that people hold and follow to connect with a higher power.",
+627,crisis,A situation in which a difficult circumstance that demands urgent action arises.,
+628,museum,A place that exhibits artifacts that reflect culture and history.,
+629,communication,"The process of exchanging information, ideas, and messages.",
+630,murder,Killing of a person.,
+631,object,It is similar to body or entity.,s
+632,blog, An online platform that allows for the creation and publication of written content.,
+633,return,A journey or travel back to a previously visited place.,
+634,belief,It is a synonym for faith.,s
+635,block,A rectangular piece of material used for construction.,
+636,debt,Money that someone owns to somebody.,
+637,labor,It is similar to work or effort.,s
+638,understanding,It is a synonym for comprehension.,s
+639,neighborhood,It is a synonym for area or district.,s
+640,contract,An agreement between two or more parties.,
+641,middle,It is a synonym for center.,s
+642,species,A category of living things that are grouped together based on their physical and biological characteristics.,
+643,sample,"A small piece of something to test, taste, or evaluate.",
+644,path,It is similar to way or route.,s
+645,apple,A large hard fruit with a tart juicy sweet flesh.,
+646,god,It is the antonym for devil or satan.,a
+647,library,It's a place where you can borrow or read books.,
+648,prison,A building designed to hold individuals who have been convicted of a crime.,
+649,hole,A round or circular opening or cavity.,
+650,attempt,It is a synonym for try.,s
+651,code,A sequence of symbols used for programming.,
+652,sales,The number of units of goods or services sold.,
+653,gift,It is a synonym for present.,s
+654,increase,It is the opposite of decrease or fall.,a
+655,garden,"An area of land, usually outdoors, planted with various types of plants, flowers, and other greenery.",
+656,lake,A large body of fresh water that is generally shallow and surrounded by land.,
+657,turn,It is similar to rotating or moving.,s
+658,plane,A flying machine used for transportation or traveling. ,
+659,vehicle,An object or device used for transportation or movement from one location to another.,
+660,application,A computer program designed to perform a specific task.,
+661,thousand,It is a number ten times more than a hundred.,
+662,coffee,A drink that energizes you.,
+663,file,A flat tool used for smoothing or sharpening.,
+664,reform,It is similar to reogranization or modification.,s
+665,gold,It is a precious metal typically used for jewelry or currency.,
+666,planet,A celestial body orbiting a star.,
+667,location,"It is similar to place, area, or spot.",s
+668,bird,"An animal that has wings, feathers, and is capable of flight.",
+669,principle,It is similar to basis or doctrine.,s
+670,search,The action of actively seeking or looking for something.,
+671,possibility,Being able to occur or exist.,
+672,sky,It is the opposite of earth.,a
+673,horse,"A large animal commonly used in transportation, agriculture, hunting, and warfare.",
+674,advantage,It is similar to benefit or leverage.,s
+675,basis,An essential element or concept that forms the foundation of something.,
+676,context,"Environment or setting in which an event, statement, or action occurs.",
+677,christmas,It is a Christian holiday before the New Year.,
+678,strength,It is the opposite of weakness.,a
+679,move,Action of shifting or changing position.,
+680,monday,It is the first day of the week.,
+681,mean,It is a synonym for average.,s
+682,beach,A synonym for shore or strand.,s
+683,writing,The opposite of reading.,a
+684,master,A synonym for professional.,s
+685,scale,It is similar to magnitude or scope.,s
+686,resident,A person who lives in a particular place.,
+687,football,It is a sport game that involves kicking a ball.,
+688,failure,It is the opposite of success.,a
+689,reporter,It's similar to journalist or correspondent.,s
+690,fight,It is similar to combat or battle.,s
+691,one,It is a number before two.,
+692,vision,It's the opposite of blindness.,a
+693,human,A synonym for person or individual.,s
+694,will,A synonym for determination.,s
+695,connection,"A synonym for association, bond, or link.",s
+696,camp,"A place where people stay temporarily, especially for recreation or military purposes.",
+697,stone,"A hard, solid piece of rock.",
+698,hundred,A large number that is equal to 10 times 10.,
+699,key,It can be used to unlock a door.,
+700,truck,It is a synonym for lorry or van.,s
+701,afternoon,It is a time of the day before evening.,
+702,secretary,A person who assists a manager or other executive.,
+703,conflict,It is the opposite of agreement.,a
+704,learning,The act of acquiring knowledge or skills.,
+705,share,A portion of something that is divided among two or more people.,
+706,newspaper,It is similar to periodical or gazette.,s
+707,foundation,The basis or groundwork of something.,
+708,variety,It is a synonym for diversity or assortment.,s
+709,perspective,It is a synonym for angle or viewpoint.,s
+710,document,"It is similar to a record, paper, or file.",s
+711,presence,It is the opposite of absence.,a
+712,lesson, A time when someone teaches you something.,
+713,crowd,It is a large mass of people.,
+714,apartment,It is a synonym for house or flat.,s
+715,guest,It is a synonym for visitor.,s
+716,soul,It is opposite to body or matter.,a
+717,protection,It is similar to defense or shelter.,s
+718,intelligence,It is the opposite of stupidity.,a
+719,border,It is similar to boundary.,s
+720,reading,The process of understanding written or printed text.,
+721,leadership,It is the opposite of followership or obedience.,a
+722,chief,It is an opposite of subordinate.,a
+723,attitude,It is similar to disposition or mindset.,s
+724,start,It is a synonym for beginning.,s
+725,website,A collection of web pages that are hosted on a server.,
+726,distance,It is the opposite of proximity.,a
+727,climate,It is similar to weather or atmosphere.,s
+728,relation,It is similar to connection or association.,s
+729,flight,It is something that birds and airplanes do.,
+730,boat,A watercraft that is smaller than a ship.,
+731,aspect,It is similar to nuance or detail.,s
+732,january,It is the first month of winter.,
+733,volume,It is similar to capacity or size.,s
+734,theater,"A place where plays, musicals, and operas are staged.",
+735,speed,It is similar to velocity.,s
+736,identity,It is similar to self or personality.,s
+737,demand,It is the opposite for supply.,a
+738,guard,A person or thing that protects or watches over something.,
+739,tuesday,It is a day that comes after Monday.,
+740,facility,It is a synonym for amenity.,s
+741,farm,A place where crops and/or animals are raised for food.,
+742,fun,A synonym for entertainment.,s
+743,august,It is the last month of summer.,
+744,link,It is similar to association or tie.,s
+745,shoe,It is something we wear on our legs.,
+746,institute,It is similar to academy or college.,s
+747,living,The state of being alive.,
+748,quarter,It is one fourth of something.,
+749,forest,A large area of land covered with trees.,
+750,poll,It is similar to a survey or ballot.,s
+751,background,A history of something or someone.,
+752,winter,It is the coldest season of the year.,
+753,focus,It is similar to concentration.,s
+754,shop,It is similar to store or mall.,s
+755,division,It is the opposite of multiplication.,a
+756,advice,It is similar to recommendation.,s
+757,reaction,It is similar to response or answer.,s
+758,injury,It is a synonym for trauma or damage.,s
+759,it,"A broad term that refers to the use of computers, software, and other technologies.",
+760,ticket,It is similar to a pass or voucher.,s
+761,grade,It is a synonym for mark or score.,s
+762,birth,The beginning of a new life.,
+763,painting,It is a synonym for art or picture.,s
+764,outcome,It is a synonym of result.,s
+765,enemy,It is the opposite of friend.,a
+766,damage,It's the opposite of repair.,a
+767,being,It is similar to the beast or creature.,s
+768,storm,It is similar to hurricane or tornado.,s
+769,shape,It is similar to form or outline.,s
+770,bowl,It is something used for serving food or mixing ingredients.,
+771,commission,It is a synonym for fee or payment.,s
+772,captain,It is the leader of a group of people or a team.,
+773,ear,A sense organ that allows us to hear.,
+774,troop,"A group of people or animals, especially when they are organized and moving together.",
+775,wood,A natural material made from trees.,
+776,lead,A position of advantage or superiority.,
+777,minister,A person who is appointed to a high office in the government or church.,
+778,neighbor,It is someone who lives nearby.,
+779,software,The opposite of hardware.,a
+780,finding,It is similar to discovery.,s
+781,lord,The opposite of servant or slave.,a
+782,drive,It is similar to motivation.,s
+783,temperature,A measure of the hotness or coldness of something.,
+784,cut,It is similar to incision.,s
+785,influence,It is similar to effect or impact.,s
+786,procedure,A synonym for process or method.,s
+787,respect,It is similar to admiration or honor.,s
+788,wave,Something that we see on the surface of the sea.,
+789,tradition,It is an opposite of innovation.,a
+790,actor,It is someone who plays in the movies or plays.,
+791,cat,The opposite of dog.,a
+792,bus,It is a type of public transport.,
+793,clothes,Things we wear.,
+794,affair,It is similar to a fling or romance.,s
+795,contact,It is an opposite of isolation or separation.,a
+796,category,It is a synonym for type or sort.,s
+797,victory,It is the antonym for defeat.,a
+798,map,"A representation of a place or area, showing its features, such as roads, rivers, and mountains.",
+799,egg,"A round object produced by birds and other animals, containing a developing embryo.",
+800,general,It's something that is not specific or detailed.,
+801,expression,"A way of showing something, such as a feeling or an idea.",
+802,session,"A period of time during which something happens, such as a meeting or a class.",
+803,competition,A contest between two or more people or groups to achieve something.,
+804,technique,"A way of doing something, especially a particular skill.",
+805,average,A number that represents the middle of a set of numbers.,
+806,wine,An alcoholic drink made from fermented grapes.,
+807,youth,The period of life between childhood and adulthood.,
+808,weather,"The state of the atmosphere at a particular place and time, especially in terms of temperature, humidity, wind, and precipitation.",
+809,medicine,A substance or preparation used to treat or prevent disease.,
+810,novel,A long story about imaginary people and events.,
+811,thursday,The fourth day of the week.,
+812,exchange,A system for buying and selling goods or currencies.,
+813,bay,A body of water that is partly enclosed by land.,
+814,conclusion,The end of something; a final decision or outcome.,
+815,progress,Forward movement or development.,
+816,surprise,An unexpected event or occurrence.,
+817,assessment,A judgment or evaluation of something.,
+818,smile,A facial expression that shows happiness or amusement.,
+819,cash,Money in the form of coins or notes.,
+820,pound,A unit of weight equal to 16 ounces or 0.45 kilograms.,
+821,pair,Two things that are the same or similar.,
+822,loan,A sum of money that is borrowed from someone and has to be repaid with interest.,
+823,village,"A small, rural community.",
+824,half,One of two equal parts of something.,
+825,suit,A set of clothes that are designed to be worn together.,
+826,meaning,The significance or interpretation of something.,
+827,supply,An amount of something that is available for use.,
+828,honey,"A sweet, sticky substance made by bees from nectar.",
+829,bone,"A hard, white tissue that forms the skeleton of animals.",
+830,consequence,The result or effect of something.,
+831,regulation,A rule or law that is made to control something.,
+832,award,A prize or honor given to someone for their achievements.,
+833,bottom,The lowest part of something.,
+834,classroom,"A place where people learn, for example at school or university.",
+835,reference,A source of information or authority.,
+836,lunch,A meal eaten in the middle of the day.,
+837,ad,A short commercial.,
+838,desire,A strong wish or longing for something.,
+839,instruction,A command or direction that tells someone what to do.,
+840,emergency,A situation that requires immediate action.,
+841,thinking,The mental process of forming ideas.,
+842,tour,A journey for pleasure or sightseeing.,
+843,moon,"A large, round object that orbits a planet and reflects light from the sun.",
+844,address,The location of a person or place.,
+845,december,It is the first month of winter.,
+846,chicken,A domesticated bird that is raised for its meat or eggs.,
+847,fuel,"A substance that is burned to produce heat or power, used in cars for example.",
+848,abuse,The act of treating someone or something with cruelty or violence.,
+849,construction,The process of building something.,
+850,wednesday,It is the day in the middle of the week.,
+851,intervention,"The act of interfering in something, especially to try to improve it.",
+852,visit,"A short stay in a place, especially for pleasure or business.",
+853,coast,The land along the edge of the sea.,
+854,cover,Something that protects or conceals something else.,
+855,cop,An informal denotation for a police officer.,
+856,baseball,"A game played between two teams of nine players each, with a bat and ball.",
+857,email,A message that is sent electronically from one computer to another.,
+858,accident,An unplanned and unexpected event that causes damage or injury.,
+859,front,The part of something that faces forward.,
+860,duty,Something that is required to be done by law or custom.,
+861,revenue,The income that a company or organization receives from its activities.,
+862,trend,A general direction in which something is developing or changing.,
+863,ring,A piece of jewelry that is worn on a finger.,
+864,breath,The air that is inhaled and exhaled by the lungs.,
+865,inch,A unit of length equal to one twelfth of a foot.,
+866,neck,The part of the body that connects the head to the rest of the body.,
+867,core,The central or most important part of something.,
+868,billion,The number equal to 1000 million.,
+869,miss,"An unmarried woman or girl, especially a schoolgirl.",
+870,drink,A liquid that is consumed for pleasure or refreshment.,
+871,literature,"Writings, especially those of recognized artistic merit.",
+872,mayor,The elected head of a city or town.,
+873,importance,The significance or value of something.,
+874,danger,It is the opposite of safety.,a
+875,knee,The joint where the thighbone meets the shinbone.,
+876,ass,It is a synonym for butt.,s
+877,traffic,The movement of vehicles along roads.,
+878,train,"A long line of connected vehicles, people, or animals moving together.",
+879,plate,"A flat, circular dish used for serving food.",
+880,equipment,The things that are needed for a particular activity or job.,
+881,studio,"A place where artists, musicians, or photographers work.",
+882,secret,Something that is kept hidden or not known to many people.,
+883,engine,"A machine that converts one form of energy into another, especially mechanical energy from heat, used in cars or planes for example.",
+884,luck,"The force that seems to influence events in a positive or negative way, apparently independent of one's own actions.",
+885,panel,A group of people who are gathered to discuss or decide something.,
+886,hero,"A person who is admired for their courage or outstanding achievements, for example in movies or fairytales.",
+887,circle,A round shape with no straight sides.,
+888,critic,A person who judges the quality of something.,
+889,episode,A single event or incident in a series.,
+890,check,A way to make sure something is correct or in good condition.,
+891,requirement,Something that is needed or essential.,
+892,politician,A person who is involved in politics.,
+893,rain,Water that falls from the sky in drops.,
+894,colleague,A person who works in the same place as you.,
+895,beer,"An alcoholic drink made from malted barley, hops, yeast, and water.",
+896,exercise,Physical activity that is done to improve or maintain fitness.,
+897,democracy,It is the opposite of dictatorship.,a
+898,setting,The time and place in which a story or event takes place.,
+899,honor,A high regard for someone or something based on their qualities or actions.,
+900,works,"A factory, mine, or other industrial establishment.",
+901,theme,"The underlying subject or message of a piece of writing, music, or art.",
+902,male,a person or animal with the biological sex that can produce sperm.,
+903,pool,"A large area of water surrounded by land,often used for swimming.",
+904,pocket,"A small, enclosed space in a garment or bag for carrying small items.",
+905,sugar,"A sweet, white crystalline substance that is used as a sweetener.",
+906,teaching,The act of imparting knowledge or skills to others.,
+907,chairman,The leader of a meeting or organization.,
+908,error,A mistake or a fault.,
+909,bridge,"A structure that spans a gap or obstacle, typically carrying a road, railway, or waterway.",
+910,flower,A plant that has brightly colored petals and usually sweet-smelling.,
+911,limit,The greatest or smallest amount or extent of something.,
+912,coverage,The extent to which something is covered or protected.,
+913,crew,A group of people working together on a particular task.,
+914,balance,The state of being evenly distributed.,
+915,lip,"The fleshy, movable part of the mouth that surrounds the teeth.",
+916,zone,An area or region with a particular character or purpose.,
+917,wedding,A ceremony in which two people are married.,
+918,copy,"A reproduction of something, such as a document or drawing.",
+919,joke,A funny story or remark.,
+920,meal,A regular occasion for eating food.,
+921,minority,It is the opposite of majority.,a
+922,sight,It is similiar to vision or scenery.,s
+923,sleep,A natural state of rest during which the body and mind are inactive.,
+924,dress,A piece of clothing that covers the body from the waist down.,
+925,release,The act of setting something free.,
+926,profit,An amount of money that a business makes after it has paid its expenses.,
+927,gender,A person's social identity in relation to the categories of male and female.,
+928,tape,"A long, narrow strip of material used for recording or binding things together.",
+929,ocean,A large body of salt water that covers much of the Earth's surface,
+930,host,It's the opposite of a guest.,a
+931,circumstance,A condition or situation that affects something else.,
+932,boss,A person who has authority over others in a workplace.,
+933,tea,A hot drink made from the leaves of certain plants.,
+934,manner,A way of behaving or doing something.,
+935,cloud,A mass of condensed water vapor in the atmosphere that appears as a white or grayish patch.,
+936,winner,It is the opposite of looser.,a
+937,sentence,A group of words that expresses a complete thought.,
+938,request,A polite or formal statement asking for something.,
+939,appearance,The way something looks.,
+940,salt,"A white, hard mineral that is used to flavor food and preserve it.",
+941,beauty,The quality of being pleasing to the senses or mind.,
+942,bottle,A container for liquids that is made of glass or plastic and has a narrow neck.,
+943,component,A part of something larger.,
+944,fee,A payment made for a service.,
+945,dance,"A rhythmic movement of the body, typically to music.",
+946,shirt,"shirt, A piece of clothing, often without sleeves, that covers the upper body and arms.",
+947,tip,A small amount of money given to someone for their service.,
+948,plastic,A material that is made from oil and is used to make many different things.,
+949,tooth,"A hard, white structure in the mouth that is used for chewing.",
+950,meat,The flesh of an animal used as food.,
+951,stress,A state of mental or emotional strain or tension.,
+952,february,It is the last month of winter.,
+953,constitution,The fundamental laws and principles of a country or organization.,
+954,definition,A statement of the meaning of a word or phrase.,
+955,uncle,It is the opposite for aunt.,a
+956,metal,A solid material that is shiny and can be hammered or shaped.,
+957,album,A collection of photographs or music recordings.,
+958,self,One's own personality or identity.,
+959,investor,Someone who puts money into a business or other venture in the hope of making a profit.,
+960,fruit,The sweet and fleshy product of a tree or other plant.,
+961,desk,"A piece of furniture with a flat top and drawers, used for writing or working.",
+962,valley,A low area of land between hills or mountains.,
+963,abortion,Ending a pregnancy before the fetus is viable.,
+964,chapter,A division of a book or other written work.,
+965,commitment,A promise or obligation to do something.,
+966,proposal,A plan or suggestion for doing something.,
+967,capacity,The ability to hold or contain something.,
+968,nose,"nose, The part of the face that is above the mouth and contains the nostrils.",
+969,variable,Something that can change or vary.,
+970,convention,An event or meeting where people gather to discuss or agree on something.,
+971,jury,A group of people who are chosen to decide the guilt or innocence of a person accused of a crime.,
+972,root,The part of a plant that grows underground and absorbs water and nutrients.,
+973,incident,An event that happens unexpectedly.,
+974,hearing,The sense of being able to perceive sounds.,
+975,payment,The act of giving someone money in return for goods or services.,
+976,bear,"A large, furry mammal with a long snout and claws.",
+977,surgery,A medical procedure performed on a patient.,
+978,shadow,A dark area or shape cast by a body blocking light.,
+979,witness,A person who sees or hears something happen.,
+980,chest,The upper part of the body between the neck and the abdomen.,
+981,amendment,A change or alteration to something.,
+982,extent,The amount or range of something.,
+983,pleasure,A feeling of enjoyment or satisfaction.,
+984,holiday,It is a synonym for vacation.,s
+985,talent,A natural ability to do something well.,
+986,expectation,A belief that something will happen or be the case.,
+987,ride,A journey on a vehicle or a horse.,
+988,wing,A part of an aircraft or bird that provides lift.,
+989,corporation,It is a synonym for company or business.,s
+990,sector,A part of an area or whole.,
+991,fat,A type of tissue that is found in the body and helps to store energy.,
+992,experiment,A scientific procedure carried out to test or establish the validity of a hypothesis.,
+993,farmer,A person who owns or operates an agrobusiness.,
+994,english,It is something related to England.,r
+995,confidence,A feeling of self-assurance or belief in one's own abilities.,
+996,bunch,A number of things growing or gathered together.,
+997,speaker,It is a person who talks.,
+998,breast,"The upper front part of the body of a woman or mammal, containing the mammary glands.",
+999,leaf,"A flat, green organ that grows on a plant and helps it to photosynthesize.",
